@@ -5,7 +5,7 @@ Gem::Specification.new do |gem|
 	gem.summary = "OmniAuth Strategy for Spotify via OAuth2"
 	gem.description = "OmniAuth Strategy for Spotify via OAuth2"
 	gem.homepage = "https://github.com/jonathantribouharet/omniauth-spotify-oauth2"
-	gem.version = OmniAuth::Eivo::VERSION
+	gem.version = OmniAuth::Spotify::VERSION
 	gem.files = `git ls-files`.split("\n")
 	gem.require_paths = ["lib"]
 	gem.authors = ['Jonathan TRIBOUHARET']
